@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">TDS FireStore</string>
+    <string-array name="unidadeProduto">
+        <item>Kg</item>
+        <item>Ml</item>
+        <item>Unitario</item>
+    </string-array>
+    <string-array name="perecivel">
+        <item>Perecivel</item>
+        <item>Não Perecivel</item>
+    </string-array>
+</resources>

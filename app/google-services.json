@@ -1,0 +1,44 @@
+{
+  "project_info": {
+    "project_number": "1023315534405",
+    "firebase_url": "https://tdsfirestore.firebaseio.com",
+    "project_id": "tdsfirestore",
+    "storage_bucket": "tdsfirestore.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1023315534405:android:6ce39919c0d3995c",
+        "android_client_info": {
+          "package_name": "com.example.tdsfirestore"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1023315534405-jn7e0m1os1innsk9pkrckmb1p5fkbosr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.tdsfirestore",
+            "certificate_hash": "53f40974c8829e11ba0d37fe38a4feef773cca11"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCTfks5IuvstmXTL8gw3tz1jMoVmyDLzjs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1023315534405-4oc7p14rml14jbh91hquoa2ir2ei08a3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
